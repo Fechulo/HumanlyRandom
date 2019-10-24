@@ -6,9 +6,12 @@ This is my submission to the Trinity Junior Fresher Computer Science Competition
 My submission is an android app, so you will need to install it on an android phone to test it.
 
 ### How to Install Humanly Random:
-- Enable developer mode on your android phone
-  If you're not sure how to do this, see: https://developer.android.com/studio/debug/dev-options
-- navigate to https://bit.ly/HumanlyRandom and download the .apk file
+- Go to your settings --> lock screen and security, and enable Unknown Sources
+  (This allows the app to be installed through Google Drive)
+  If you can't find the option see this article: 
+  https://www.technipages.com/where-did-allow-installation-from-unknown-sources-go-in-android
+- navigate to bit.ly/HumanlyRandom and download the .apk file
+  (This is a Google Drive short-link so you might need to log in to download the file)
 - Open the downloaded package file with Android's Package Installer
 - You should get a screen asking if you'd like to install the app, press install
 - You might get asked if you would like to scan the app with google play
