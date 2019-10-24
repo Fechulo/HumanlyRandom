@@ -36,7 +36,7 @@ void draw() {
   
   // creates 60 second countdown once button is pressed
   timeSinceLastSMS = (millis() - sentSMSTime)/1000;
-  if (timeSinceLastSMS == 60) {
+  if (timeSinceLastSMS >= 60) {
     sendSMSButton.enable();
   }
 }
