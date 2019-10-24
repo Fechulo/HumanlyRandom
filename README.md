@@ -10,7 +10,7 @@ My submission is an android app, so you will need to install it on an android ph
   (This allows the app to be installed through Google Drive)
   If you can't find the option see this article: 
   https://www.technipages.com/where-did-allow-installation-from-unknown-sources-go-in-android
-- navigate to bit.ly/HumanlyRandom and download the .apk file
+- navigate to https://bit.ly/TCDCS and download the .apk file
   (This is a Google Drive short-link so you might need to log in to download the file)
 - Open the downloaded package file with Android's Package Installer
 - You should get a screen asking if you'd like to install the app, press install
